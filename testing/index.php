@@ -5,11 +5,11 @@
 </head>
 <nav>
   <ul>
-    <li>RCMeta.Com</li>
-    <li>RCPartOut.Com</li>
-    <li>LEGO (BrickOwl)</li>
-    <li>LEGO (BrickLink)</li>
-    <li>LOCURA MODDING</li>
+    <li><a target="_blank" href="https://rcmeta.com/">RCMeta.Com</a></li>
+    <li><a target="_blank" href="https://rcpartout.com/">RCPartOut.Com</a></li>
+    <li><a target="_blank" href="#">LEGO (BrickOwl)</a></li>
+    <li><a target="_blank" href="#">LEGO (BrickLink)</a></li>
+    <li><a target="_blank" href="https://github.com/LocuraDU">LOCURA MODDING</a></li>
     <li class="slide"></li>
   </ul>
 </nav>
