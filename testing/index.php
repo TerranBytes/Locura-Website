@@ -5,7 +5,6 @@
 </head>
 <nav>
   <ul>
-    <li><a href="https://locuracnc.com/">Home</a></li>
     <li>RCMeta.Com</li>
     <li>RCPartOut.Com</li>
     <li>LEGO (BrickOwl)</li>
@@ -15,5 +14,5 @@
   </ul>
 </nav>
 <section>
-  <div class="title"><span>LOCURA</span><span>Hobby And <a target="_blanck" href="salfia.com">Modding</a></span></div>
+  <div class="title"><span>LOCURA</span><span>Hobby Sales And <a target="_blank" href="https://github.com/LocuraDU">Modding</a></span></div>
 </section>
