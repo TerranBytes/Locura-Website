@@ -5,14 +5,15 @@
 </head>
 <nav>
   <ul>
-    <li><a href="Salfia.co">Home</a></li>
-    <li>About me</li>
-    <li>Portfolio</li>
-    <li>Blog</li>
-    <li>Contact me</li>
+    <li><a href="https://locuracnc.com/">Home</a></li>
+    <li>RCMeta.Com</li>
+    <li>RCPartOut.Com</li>
+    <li>LEGO (BrickOwl)</li>
+    <li>LEGO (BrickLink)</li>
+    <li>LOCURA MODDING</li>
     <li class="slide"></li>
   </ul>
 </nav>
 <section>
-  <div class="title"><span>Jack Salfia</span><span>Graphic Designer and<a target="_blanck" href="salfia.com">Web Developer</a></span></div>
+  <div class="title"><span>LOCURA</span><span>Hobby And <a target="_blanck" href="salfia.com">Modding</a></span></div>
 </section>
